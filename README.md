@@ -1,0 +1,2 @@
+# Verve-Website
+The Digital home of "Verve 2017", the official fest of Vidyalankar Insitute Of Technology. Developed for all the users who wish to experience the thrill, excitement, and amazing events in store for them at Verve 2017. Beautifully designed UI with Back-end functionality that allows the users to register for the events of their choice, so they never miss out on any events and note down the important dates and timings.
