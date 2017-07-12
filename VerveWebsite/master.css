@@ -1,0 +1,79 @@
+.container{
+  position:absolute;
+  width: 500px;
+  height: 600px;
+  background-color: black;
+  left:50%;
+  top:50%;
+  transform:translateX(-50%) translateY(-50%);
+  opacity:0.7;
+  border-radius: 10px;
+}
+
+
+.register{
+  font: 1em "Open Sans";
+  font-size: 24px;
+  background-image: url("images/register.jpg");
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+
+.login{
+  font: 1em "Open Sans";
+  font-size: 24px;
+  background-image: url("images/back6.jpg");
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+
+input {
+background-color: rgba(0,0,0,0.3);
+color: red;
+border: none;
+}
+
+
+img{
+  width:80%;
+  height:35%;
+  margin-left: 45px;
+}
+
+.a{
+width: 70%;
+height: 35px;
+margin-left: 60px;
+font-size: 24px;
+/*padding: 15px;*/
+border-radius: 5px;
+}
+
+button{
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  font-size: 24px;
+  margin-left: 180px;
+  align-self: center;
+  border-radius: 10px;
+}
+
+hr{
+  opacity:0.5;
+}
+
+.b{
+  text-align: center;
+  color:white;
+  font-size:20px;
+  font-family: Open Sans;
+}
+
+.verve{
+  color: #eceff1;
+  font-size: 36px;
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+}
